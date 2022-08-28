@@ -1,1 +1,2 @@
-# CLASSICAL-MACHINE-LEARNING
+# Image Stitcher
+

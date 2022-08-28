@@ -1,0 +1,48 @@
+{
+    "scenery": {
+        "url_list": [
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/scenery/1.png", 
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/scenery/2.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/scenery/3.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/scenery/4.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/scenery/5.png"
+        ]
+    },
+    "robot": {
+        "url_list": [
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/robot/1.png", 
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/robot/2.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/robot/3.png"
+        ]
+    },
+    "pine_trees": {
+        "url_list": [
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/forest/1_forest.png", 
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/forest/2_forest.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/forest/3_forest.png"
+        ]
+    },
+    "lake": {
+        "url_list": [
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/lake/1_lake.png", 
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/lake/2_lake.png"
+        ]
+    },
+    "elon": {
+        "url_list": [
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/elon/1.png", 
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/elon/2.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/elon/3.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/elon/4.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/elon/5.png",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/elon/6.png"
+        ]
+    },
+    "receipt": {
+        "url_list": [
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/receipt/1.JPEG", 
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/receipt/2.JPEG",
+            "https://image-stitching-demo.s3.ap-southeast-1.amazonaws.com/pre_stitched_images/receipt/3.JPEG"
+        ]
+    }
+}
